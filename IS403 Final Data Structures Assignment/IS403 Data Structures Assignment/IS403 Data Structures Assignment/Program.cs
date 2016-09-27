@@ -1,4 +1,12 @@
-﻿using System;
+/* Suzy Waddoups, Joseph Chu, Chen Yu, Michael Shim
+ * 9/26/2016
+ * Project Description:
+ * This project has four main functions. Those are stack, queue, dictionary, and exit.
+ *  And each function has six diffrent functions. It allows users insert, delete, display , and search items. 
+ *  For each function it will make sure the users have correct input!
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Collections;
 using System.Linq;
