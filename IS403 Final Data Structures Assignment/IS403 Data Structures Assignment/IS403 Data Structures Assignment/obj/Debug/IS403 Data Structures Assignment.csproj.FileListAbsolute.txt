@@ -1,0 +1,6 @@
+c:\users\suzy\documents\visual studio 2013\Projects\IS403 Data Structures Assignment\IS403 Data Structures Assignment\bin\Debug\IS403 Data Structures Assignment.exe.config
+c:\users\suzy\documents\visual studio 2013\Projects\IS403 Data Structures Assignment\IS403 Data Structures Assignment\obj\Debug\IS403 Data Structures Assignment.csprojResolveAssemblyReference.cache
+c:\users\suzy\documents\visual studio 2013\Projects\IS403 Data Structures Assignment\IS403 Data Structures Assignment\bin\Debug\IS403 Data Structures Assignment.exe
+c:\users\suzy\documents\visual studio 2013\Projects\IS403 Data Structures Assignment\IS403 Data Structures Assignment\bin\Debug\IS403 Data Structures Assignment.pdb
+c:\users\suzy\documents\visual studio 2013\Projects\IS403 Data Structures Assignment\IS403 Data Structures Assignment\obj\Debug\IS403 Data Structures Assignment.exe
+c:\users\suzy\documents\visual studio 2013\Projects\IS403 Data Structures Assignment\IS403 Data Structures Assignment\obj\Debug\IS403 Data Structures Assignment.pdb
